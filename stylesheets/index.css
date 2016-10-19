@@ -172,11 +172,11 @@ aside a {
 	margin: 10px 0;
 	width: 20px;
 	height: 20px;
-	background: url(../image/aside_1.png) no-repeat center center;
+	background: url(../images/aside_1.png) no-repeat center center;
 	border-radius: 50%;
 }
 aside a.selected {
-	background: url(../image/aside_2.png) no-repeat center center;
+	background: url(../images/aside_2.png) no-repeat center center;
 }
 aside b {
 	position: absolute;
@@ -201,7 +201,7 @@ aside b {
 	height: 100%;
 	position: relative;
 	overflow: hidden;
-	background: url(../image/bg.jpg) no-repeat center top;
+	background: url(../images/bg.jpg) no-repeat center top;
 	background-size: 100% 100%;
 }
 #home_content,
@@ -338,16 +338,16 @@ img#home_photo2 {
 	text-align: center;
 }
 #about_en_edu:before {
-	content: url(../image/education.png);
+	content: url(../images/education.png);
 }
 #about_en_age:before {
-	content: url(../image/age.png);
+	content: url(../images/age.png);
 }
 #about_en_loc:before {
-	content: url(../image/location.png);
+	content: url(../images/location.png);
 }
 #about_en_sta:before {
-	content: url(../image/status.png);
+	content: url(../images/status.png);
 }
 .about_list_cn {
 	padding-top: 20px;
@@ -515,16 +515,16 @@ img#home_photo2 {
     transition : transform .25s;
 }
 #skill_icon1{
-    background: url(../image/ng.png) no-repeat ;
+    background: url(../images/ng.png) no-repeat ;
 }
 #skill_icon2{
-    background: url(../image/html.png) no-repeat ;
+    background: url(../images/html.png) no-repeat ;
 }
 #skill_icon3{
-    background: url(../image/css.png) no-repeat ;
+    background: url(../images/css.png) no-repeat ;
 }
 #skill_icon4{
-    background: url(../image/js.png) no-repeat ;
+    background: url(../images/js.png) no-repeat ;
 }
 .skill_name {
 	text-align: center;
@@ -535,7 +535,7 @@ img#home_photo2 {
 	margin: 20px auto;
 	width: 20px;
 	height: 20px;
-	background: url(../image/skill_flag.png);
+	background: url(../images/skill_flag.png);
 	-webkit-transition-duration: 1s;
 	transition-duration: 1s;
 }
@@ -674,7 +674,7 @@ img#home_photo2 {
 	float: left;
 	width: 1000px;
 	height: 320px;
-	background: url(../image/exp_list_bg.jpg);
+	background: url(../images/exp_list_bg.jpg);
 	box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1) inset;
 }
 .exp_list_left {
@@ -717,7 +717,7 @@ img#home_photo2 {
 	text-indent: -9999px;
 	margin: 10px auto;
 	width: 800px;
-	background: url(../image/timeline.png) no-repeat center center;
+	background: url(../images/timeline.png) no-repeat center center;
 }
 #exp_timeline div {
 	width: 390px;
@@ -797,7 +797,7 @@ img#home_photo2 {
 .exp_list {
 	width: 900px;
 	height: 300px;
-	background: url(../image/exp_list_bg1.jpg);
+	background: url(../images/exp_list_bg1.jpg);
 }
 #exp_list_content {
 	height: 300px;
